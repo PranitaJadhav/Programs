@@ -1,0 +1,49 @@
+{
+
+ "Rice":[
+	  {
+		"name":"Basamati",
+		"price":100,
+		"weight":1
+	  },
+	  
+ 	   {
+		"name":"Indrayani",
+		"price":45,
+		"weight":1
+	  },
+	
+
+       ],
+"Wheat":[
+	  {
+		"name":"NH",
+		"price":50,
+		"weight":1
+	  },
+	  
+ 	   {
+		"name":"Punjabi",
+		"price":45,
+		"weight":1
+	  },
+	
+
+       ]
+"Pulses":[
+	  {
+		"name":"Mugdal",
+		"price":70,
+		"weight":1
+	  },
+	  
+ 	   {
+		"name":"Chana",
+		"price":100,
+		"weight":1
+	  },
+	
+
+       ]
+
+}
